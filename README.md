@@ -22,8 +22,8 @@ Demo site: [DemoQA](https://demoqa.com)
 Clone the repository and install dependencies:
 
 
-git clone https://github.com/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/peter-stefanski/Cypress-DemoQA-tests.git
+cd Project_02
 npm install
 
 # Running Cypress Tests
@@ -32,7 +32,7 @@ npm install
 
 npx cypress open
 
-##Run Cypress in Headless Mode (CLI)
+## Run Cypress in Headless Mode (CLI)
 npx cypress run
 
 ## Base URL
