@@ -39,9 +39,7 @@ npx cypress run
 
 - Make sure your TodoMVC React app is running locally.
 
-- Default URL used in tests:
-
-https://demoqa.com
+- Default URL used in tests: https://demoqa.com
 
 - You can change this in cypress.config.js if needed.
 
